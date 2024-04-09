@@ -1,0 +1,14 @@
+Course Name:        Introduction to Computer Programming Fundamentals 
+ID:                 CSCI1
+Class Location:     MBA 315
+
+Name                ID            Average      Letter Grade
+Adams, John         111-22-3333   91.54        A
+Smith Jr., Willy    222-11-4444   79.20        C
+Jordan, Phil        777-88-6666   -1.00        I
+Grdener, Philip     777-88-0066   84.60        B
+Brown Tyler, Nancy  997-76-6555   82.00        B
+Cruze, Jose         888-77-8878   89.20        B
+Aiko, Margarete     777-77-7777   100.00       A
+
+Class Average for 6 students: 87.76

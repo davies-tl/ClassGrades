@@ -1,0 +1,12 @@
+Introduction to Computer Programming Fundamentals CSCI1
+MBA 315
+Phil Jordan
+777886666 100 80 70 50 -60 90 100
+John Adams
+111223333 100 87 93 90 90 89 91
+Willy Smith Jr.
+222114444 90 73 67 77 70 80 90
+Allen Brown
+888888888 100 87 73 90 90 99 91
+
+
